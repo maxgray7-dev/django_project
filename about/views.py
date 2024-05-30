@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def about_me(request):
-    return HttpResponse("This would be avout the page")
+    return HttpResponse("This would be about the page")
