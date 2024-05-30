@@ -1,0 +1,1 @@
+web: ginicorn my_project.wsgi
